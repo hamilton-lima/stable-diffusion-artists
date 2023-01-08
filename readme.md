@@ -13,6 +13,8 @@ CSG: 7.5
 Sampling Steps: 30
 Sampler: k_lms
 
+[Simplified version of this page, all images](images.md)
+
 # Contributing
 
 If there is an artist that the model knows about that you think should be on this list, you can open an issue or pull request. Keep in mind that Stable Diffusion does not know every single artist.
