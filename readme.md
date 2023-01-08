@@ -13,7 +13,7 @@ CSG: 7.5
 Sampling Steps: 30
 Sampler: k_lms
 
-[Simplified version of this page, all images](all-images.md)
+[Simplified version of this page, all images](images.md)
 
 # Contributing
 
